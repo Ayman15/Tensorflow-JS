@@ -1,3 +1,3 @@
 # Tensorflow-JS
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-7ew5ko)
+This is a tutorial to use Tensorflow.js for predection based on simple linear regession. 
+the data source is json file 
